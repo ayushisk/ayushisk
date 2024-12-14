@@ -27,5 +27,5 @@
  
  •	 LinkedIn - https://www.linkedin.com/in/ayushi-sinha-67309a223/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
  •	 Coding profiles
- •	 [Leetcode](https://leetcode.com/ayushisk)
+ •	 [Leetcode](https://leetcode.com/)
   
